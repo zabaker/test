@@ -1,0 +1,6 @@
+C:\Users\hollo\source\repos\2dto1d\bin\Debug\2dto1d.exe.config
+C:\Users\hollo\source\repos\2dto1d\bin\Debug\2dto1d.exe
+C:\Users\hollo\source\repos\2dto1d\bin\Debug\2dto1d.pdb
+C:\Users\hollo\source\repos\2dto1d\obj\Debug\2dto1d.csprojAssemblyReference.cache
+C:\Users\hollo\source\repos\2dto1d\obj\Debug\2dto1d.exe
+C:\Users\hollo\source\repos\2dto1d\obj\Debug\2dto1d.pdb
